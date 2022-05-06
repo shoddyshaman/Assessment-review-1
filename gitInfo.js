@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+let gitDefinition = "git is a version control software that tracks all the files in a folder and helps us to commit the code so that we can use those version as needed.It also allows us to track changes on a project with multiple branches so that multiple people can work on the same code base"
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+let gitHubDefinition = "github is a platform that allows us to save our code remotely through Git"
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+let gitInitDefinition = "initializes a git repo in the folder you run the command."
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+gitCloneDefinition = "clones a repo from the remote to your local machine"
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@
 */
 
 //CODE HERE
-
+let gitStatusDefinition = "provides a status of the git tracking and commits"
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +53,9 @@
 */
 
 //CODE HERE
+let gitAddDefinition = "tells Git which files to track"
 
+let gitAddCode = "git add ."
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,7 +66,9 @@
 */
 
 //CODE HERE
+let gitCommitDefinition = "takes a snapshot of the tracked files "
 
+let gitCommitCode = "git commit -m 'your-message-here'"
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +77,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = "git push pushes our commits to github or any other online platform"
